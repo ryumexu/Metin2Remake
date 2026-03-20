@@ -7,8 +7,7 @@ More info on my website: https://ravenight.dev/metin2remake
 
 For testing on the dmeo client, you can usetest account credidentials to login:
 
-usr: demo
-
+usr: demo <br>
 pw: test
 
 <img width="900" alt="" src="https://i.imgur.com/z5TVmkp.png">
