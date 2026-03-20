@@ -6,5 +6,7 @@ More info on my website: https://ravenight.dev/metin2remake <br>
 For testing the game, you can use the test account credidentials to login: <br>
 usr: demo <br>
 pw: test <br>
+
+This is the login interface within the game: <br>
 <img width="900" alt="" src="https://i.imgur.com/z5TVmkp.png">
 
