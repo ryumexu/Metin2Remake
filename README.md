@@ -10,3 +10,5 @@ pw: test <br>
 This is the login interface within the game: <br>
 <img width="900" alt="" src="https://i.imgur.com/z5TVmkp.png">
 
+Select character scene:
+<img width="900" alt="" src="https://i.imgur.com/ueecT8h.png">
