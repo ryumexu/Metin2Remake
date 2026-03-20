@@ -6,3 +6,7 @@ This project aims to remake the original game Metin2 developed by YmirEntertaime
 More info on my website: https://ravenight.dev/metin2remake
 
 <img width="900" alt="" src="https://i.imgur.com/z5TVmkp.png">
+
+For testing on the dmeo client, you can usetest account credidentials to login:
+usr: demo
+pw: test
